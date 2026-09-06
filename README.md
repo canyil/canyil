@@ -1,52 +1,69 @@
 # Hey there! 👋 I'm Can Yilmaz
 
-A passionate **Full-Stack Developer** and **Blockchain Engineer** focused on building innovative solutions in the Web3 ecosystem, particularly on **Base**.
+I build practical tools and applications around **Web3, crypto analytics, and the Base ecosystem**. My focus is on creating useful, clean, and maintainable products that connect blockchain data with real-world workflows.
 
 ---
 
 ## 🚀 About Me
-- 💻 Full-Stack Development with **JavaScript/TypeScript**
-- ⛓️ Blockchain & Web3 enthusiast
-- 🏗️ Building on **Base ecosystem** 
-- 📚 Continuous learner and open-source contributor
-- 🎯 Focused on creating clean, maintainable, and scalable code
+
+- ⛓️ Focused on **Web3 & blockchain development**
+- 🔵 Building and experimenting on the **Base ecosystem**
+- 📊 Interested in **crypto analytics, wallet tracking, and trading tools**
+- 💻 Working with modern JavaScript-based application stacks
+- 🧪 Constantly testing new ideas, APIs, onchain data sources, and automation workflows
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages**: JavaScript, TypeScript
-- **Frontend**: React, Vue.js
-- **Backend**: Node.js, Express
-- **Blockchain**: Smart Contracts, Web3.js, Ethers.js
-- **Tools**: Git, Docker, GitHub, VS Code
+## 🛠️ Tech & Tools
+
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** React, Vue.js
+- **Backend:** Node.js, Express
+- **Web3:** Ethers.js, Web3.js, wallet integrations, onchain data
+- **Tools:** Git, GitHub, Docker, VS Code
 
 ---
 
 ## 📦 Featured Projects
-- **[crypto-test](https://github.com/canyil/crypto-test)** - Dependency-free JavaScript toolkit for crypto analytics, portfolio, trading and Base ecosystem applications
-- **[wallet](https://github.com/canyil/wallet)** - Web3 wallet integration and management
-- **[base-portfolio](https://github.com/canyil/base-portfolio)** - Portfolio showcase on Base network
+
+### 🔹 [crypto-test](https://github.com/canyil/crypto-test)
+Crypto-focused JavaScript project for analytics, portfolio tracking, trading experiments, and Base ecosystem applications.
+
+### 🔹 [wallet](https://github.com/canyil/wallet)
+Web3 wallet integration and wallet-management project.
+
+### 🔹 [base-portfolio](https://github.com/canyil/base-portfolio)
+Portfolio-oriented project built around the Base network.
+
+### 🔹 [networks](https://github.com/canyil/networks)
+Experiments and tooling related to blockchain networks.
 
 ---
 
-## 💡 What I'm Working On
-- Building tools and applications for the Base ecosystem
-- Exploring crypto analytics and trading solutions
-- Contributing to Web3 development
+## 🎯 Current Focus
+
+- Base ecosystem tools
+- Wallet and transaction tracking
+- Crypto analytics
+- Trading and monitoring workflows
+- Web3 automation
+- Building simple products from onchain data
 
 ---
 
-## 🤝 Let's Connect
-- 📧 Email: [Your Email]
-- 🌐 Portfolio: [Your Website]
-- 💼 LinkedIn: [Your LinkedIn]
-- 🐦 Twitter: [@YourHandle]
+## 🤝 Connect
+
+- **GitHub:** [@canyil](https://github.com/canyil)
+- **Email:** yilmaz2535@gmail.com
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=canyil&show_icons=true&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=canyil&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=canyil&layout=compact&hide_border=true)
 
 ---
 
-**⭐ If you find my work useful, please consider starring my repositories!**
+> Building, testing, learning, and shipping in Web3 — with a special focus on Base.
